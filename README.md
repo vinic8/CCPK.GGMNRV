@@ -1,7 +1,7 @@
 # CCPK.GGMNRV
 CP02 python 
 
-Gabriel vilas - RM: 571603 
+Gabriel Vilas - RM: 571603 
 
 Gustavo Henrique - RM: 569921 
 
